@@ -8,3 +8,4 @@
 
 ## Rebase
 * 1st commit from rebase
+* Forgot password completed
