@@ -16,3 +16,6 @@
 * 2nd commit from squash
 * devlopment completed
 * devlopment completed
+
+## Conflict
+* devloper one wrote some code
