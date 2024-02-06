@@ -19,3 +19,4 @@
 
 ## Conflict
 * devloper one wrote some code
+* few more feature devloped by devloper-1
