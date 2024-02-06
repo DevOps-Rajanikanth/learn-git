@@ -20,6 +20,7 @@
 ## Conflict
 * devloper one wrote some code
 * few more feature devloped by devloper-1
-
-## devloper-2
+* new feature added
+* one more feature added
 * devloper-2 added some code main
+
