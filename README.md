@@ -10,3 +10,6 @@
 * 1st commit from rebase
 * Forgot password completed
 * rebase completed
+
+## Squash
+* 1st commit from squash
