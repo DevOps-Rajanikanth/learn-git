@@ -13,3 +13,4 @@
 
 ## Squash
 * 1st commit from squash
+* 2nd commit from squash
